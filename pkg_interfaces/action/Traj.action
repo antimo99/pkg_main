@@ -1,0 +1,9 @@
+#goal
+float64[] qf
+builtin_interfaces/Duration time
+---
+#result
+bool success
+---
+#feedback
+float64[] q_act
